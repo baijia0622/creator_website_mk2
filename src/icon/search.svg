@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 1000">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #BDBDBD;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #BDBDBD;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 200px;
+      }
+    </style>
+  </defs>
+  <circle class="st0" cx="438.92" cy="438.92" r="366.18"/>
+  <line class="st1" x1="417.7" y1="417.7" x2="833.03" y2="833.03"/>
+</svg>

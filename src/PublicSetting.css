@@ -1,0 +1,54 @@
+.radius-10 {
+  border-radius: 10px;
+}
+
+.radius-30 {
+  border-radius: 30px;
+}
+
+.radius-full {
+  border-radius: 9999px;
+}
+
+.font-size-B {
+  font-size: bold;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+
+.horizon-center {
+  display: flex;
+  justify-content: center;
+}
+
+.all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-column-hcenter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-column-vcenter{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex-column-allcenter{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
