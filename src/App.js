@@ -102,7 +102,7 @@ function App() {
 
         {/* 中間板塊 */}
         <Middle className="radius-30 flex-column-hcenter">
-          <MiddleHeader >
+          <MiddleHeader>
             <MiddleHeaderBlock className="vertical-center">
               <MiddleHeaderFollow className="vertical-center">
                 追蹤
@@ -262,6 +262,7 @@ const LeftH1 = styled.h1`
   height: 50px;
   margin: 0px 20px;
   margin-top: 15px;
+  color: ${Black};
 `;
 
 const LeftUl = styled.ul`
@@ -273,6 +274,7 @@ const LeftUl = styled.ul`
   margin-top: 0px;
   background-color: ${Gray2};
   cursor: pointer;
+  color: ${Black};
 `;
 
 const LeftLi = styled.li`
@@ -286,7 +288,7 @@ const LeftLi = styled.li`
   margin: 0px 10px;
   border-bottom: 1px solid ${Gray1};
   cursor: pointer;
-
+  color: ${Black};
   &:last-child {
     border-bottom: 0px;
   }
@@ -351,6 +353,7 @@ const MiddleH1 = styled.h1`
   font-size: 24px;
   font-weight: 700;
   color: ${Black};
+  letter-spacing: 1px;
 `;
 
 const MiddlePostTileAuthor = styled.div``;
@@ -360,6 +363,7 @@ const MiddlePostTileStamp = styled.p`
   margin-right: 10px;
   font-weight: 600;
   color: ${Black};
+  letter-spacing: 1px;
 `;
 
 const MiddlePostTitleImg = styled.img`
